@@ -4,7 +4,7 @@ LLM4S is a Scala-first toolkit for building AI applications. Explore the project
 
 ## Related projects
 
-Explore issues and contribution opportunities in these related Scala projects:
+Explore these related Scala projects:
 
-- [Triage4s issues](https://github.com/pavanvamsi3/triage4s/issues)
-- [Typesafe4s issues](https://github.com/gruggiero/typesafe4s/issues)
+- [Triage4s](https://github.com/pavanvamsi3/triage4s)
+- [Typesafe4s](https://github.com/gruggiero/typesafe4s)
